@@ -10,4 +10,4 @@ for (let i = 1; i <= 10; i++) {
     somma += +input;
 }
 
-console.log(`la somma è ${somma}`)
+document.writeln(`la somma è ${somma}`)
